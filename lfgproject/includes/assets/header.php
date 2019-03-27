@@ -36,8 +36,7 @@
 							<a class='dropdown-item' href='https://lfgproject.com/profile/'>Profile</a>
 							<a class='dropdown-item' href='https://lfgproject.com/settings/'>Settings</a>
 							<a class='dropdown-item' id='logout' href='https://lfgproject.com/login/'>Log Out</a>"
-							
-							echo "
+
 						</div>
 					</li>
 				</ul>";
